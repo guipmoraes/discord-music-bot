@@ -10,7 +10,7 @@
     "@mindaugaskasp/node-youtube": "github:mindaugaskasp/node-youtube",
     "axios": "^0.15.3",
     "bufferutil": "^4.0.1",
-    "discord.js": "^11.4.2",
+    "discord.js": "^13.14.0",
     "discord.js-commando": "^0.10.0",
     "erlpack": "github:hammerandchisel/erlpack",
     "ffmpeg": "0.0.4",
