@@ -22,7 +22,7 @@
     "promised-io": "^0.3.5",
     "sqlite": "^3.0.1",
     "uws": "^10.148.1",
-    "validator": "^9.4.1",
+    "validator": "^13.15.22",
     "ytdl-core": "^0.29.1"
   },
   "devDependencies": {},
